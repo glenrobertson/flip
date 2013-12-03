@@ -94,3 +94,5 @@ logic here for assigning a variant for `'bogus'` and then register the variant a
 ```
 npm test
 ```
+
+Yep, that easy! :clap:
